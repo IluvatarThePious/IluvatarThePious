@@ -22,6 +22,14 @@ I'm an Enterprise AE by day (Orum, formerly Outreach + Ironclad) with a decade o
 
 ---
 
+## Featured GTM & AI Work Samples
+
+[**Explore the enterprise GTM & AI workflow portfolio →**](https://github.com/IluvatarThePious/enterprise-gtm-ai-portfolio)
+
+Three inspectable examples: a fictional customer-proof story with a source ledger and calculation checks; a pilot-to-expansion playbook; and a reproducible Python service scenario model with six tests. These AI-assisted work samples distinguish evidence, assumptions, and simulated results. They are not presented as customer deployments or measured commercial outcomes.
+
+---
+
 ## Current Projects
 
 | Project | What It Is |
