@@ -2,7 +2,7 @@
 
 # Building Hyper-Personalized AI Systems to Help Humans Orchestrate Extraordinary Outcomes 
 
-**Peter Ryther** · Enterprise AE turned AI Operator · Cape Coral, FL
+**Peter Ryther** · AI Operator || Philomath || GTM Hunter ||Philomath |Technophile · New York, NY || Naples, FL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Ryther-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/peterryther)
 [![salesrobots.com](https://img.shields.io/badge/salesrobots.com-00C9B1?style=flat&logo=robot&logoColor=white)](https://salesrobots.com)
