@@ -1,6 +1,6 @@
 <div align="center">
 
-# I build AI outbound machines that replace SDR teams.
+# Building Hyper-Personalized AI Systems to Help Humans Orchestrate Extraordinary Outcomes 
 
 **Peter Ryther** · Enterprise AE turned AI Operator · Cape Coral, FL
 
