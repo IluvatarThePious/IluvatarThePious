@@ -1,6 +1,6 @@
 <div align="center">
 
-# Building Hyper-Personalized AI Systems to Help Humans Orchestrate Extraordinary Outcomes 
+# Enterprise Sales · Practical AI Workflows · Evidence-Based GTM 
 
 **Peter Ryther** · AI Operator || Philomath || GTM Hunter || Technophile · New York, NY || Naples, FL
 
@@ -14,15 +14,19 @@
 
 ## What I Build
 
-I deploy AI agent stacks — Apollo, Clay, Instantly, and custom workflows — that run a full outbound motion without a human SDR. The output: qualified meetings booked into your AE's calendar at a fraction of the cost of a full-time hire.
+I turn enterprise-sales problems into inspectable AI-assisted workflows: customer follow-ups, pilot plans, value models, and account preparation.
 
-I'm an Enterprise AE by day (Orum, formerly Outreach + Ironclad) with a decade of first-hand experience in what actually converts at the top of funnel. I use that operator knowledge to build AI systems that don't just send emails — they think like a senior rep.
+My background spans enterprise sales at Orum, Outreach and Ironclad. This portfolio shows how I connect commercial judgment with practical AI tools—making sources, assumptions and human review visible.
 
-**[salesrobots.com](https://salesrobots.com)** is the productized version of this system, available to B2B companies doing $2M–$30M ARR who want pipeline without headcount.
+I'm interested in Enterprise and Strategic Account Executive opportunities at growing AI and robotics companies. [Explore a five-minute work sample](https://github.com/IluvatarThePious/gtm-evidence-toolkit) or [connect on LinkedIn](https://linkedin.com/in/peterryther).
 
 ---
 
 ## Featured GTM & AI Work Samples
+
+[**Try the GTM Evidence Toolkit →**](https://github.com/IluvatarThePious/gtm-evidence-toolkit)
+
+Three workflows: Call to Commitment, Value Case Lab, and Career Evidence Companion. Start with a fictional call and its reviewed follow-up, or run the transparent Python calculator. Includes evaluation cases and seven calculator tests; live AI-output benchmarking is still planned.
 
 [**Explore the enterprise GTM & AI workflow portfolio →**](https://github.com/IluvatarThePious/enterprise-gtm-ai-portfolio)
 
@@ -57,9 +61,9 @@ Three inspectable examples: a fictional customer-proof story with a source ledge
 
 ## How I Work
 
-- **AI-first, operator-led** — every system I build is informed by 10 years of knowing what actually closes deals, not just what looks good in a demo
-- **Productized delivery** — no retainer bloat, no ambiguous scopes; you get a defined output at a fixed price that you can measure against your pipeline
-- **Fast and compounding** — I ship in sprints, measure what works, and iterate; the best outbound machines get smarter every week they run
+- **Start with a real decision** — define the user, the problem and what a useful output must help them do.
+- **Make evidence inspectable** — separate source facts, assumptions, proposals and measured outcomes.
+- **Build with AI, review with judgment** — use AI for implementation and drafting, then check calculations, claims and usability.
 
 ---
 
@@ -83,8 +87,8 @@ I hold ~50 AI-era domains including `futurebrain.io`, `worldmachines.io`, `vcwor
 
 <div align="center">
 
-**Ready to replace your SDR headcount with an AI outbound machine?**
+**Working on enterprise sales, value engineering, or practical AI adoption?**
 
-[Book a 20-minute call →](https://salesrobots.com)
+[Explore the toolkit and share feedback →](https://github.com/IluvatarThePious/gtm-evidence-toolkit)
 
 </div>
